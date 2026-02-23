@@ -1,0 +1,17 @@
+{
+  "short_name": "Obsidian",
+  "name": "Obsidian",
+  "description": "An AI chatbot that acts as an expert-level quantitative options trading analyst.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#020617",
+  "background_color": "#020617"
+}
