@@ -6,7 +6,7 @@ A Gemini-powered options trading analyst built with React and TypeScript. Obsidi
 
 ## Tech Stack
 
-- **UI**: React 19 + TypeScript
+- **UI**: React + TypeScript
 - **Styling**: Tailwind CSS (CDN)
 - **AI**: Google Gemini API (`@google/genai`)
 - **Build**: Vite
