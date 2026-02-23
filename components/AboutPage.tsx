@@ -50,7 +50,7 @@ const AboutPage: React.FC<AboutPageProps> = ({ onClose, isVisible }) => {
                                     </p>
 
                                     <div className="pt-3 border-t border-slate-700">
-                                        <h3 className="text-lg font-semibold text-cyan-400 mb-2">What it is:</h3>
+                                        <h3 className="text-lg font-semibold text-cyan-400 mb-2">How it works:</h3>
                                         <ul className="list-disc list-inside space-y-2 pl-2 text-slate-400">
                                             <li>A UI wrapper around the Gemini API, not a custom-trained model.</li>
                                             <li>Session history is stored locally in your browser and is not synced anywhere.</li>

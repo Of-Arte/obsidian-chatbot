@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <!-- Top facets -->
+  <path d="M128 16 L208 80 L128 144 Z" fill="#a78bfa" />
+  <path d="M128 16 L48 80 L128 144 Z" fill="#8b5cf6" />
+  
+  <!-- Bottom facets -->
+  <path d="M48 80 L128 240 L128 144 Z" fill="#7c3aed" />
+  <path d="M208 80 L128 240 L128 144 Z" fill="#5b21b6" />
+</svg>
